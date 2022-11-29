@@ -1,0 +1,8 @@
+@media (max-width:1100px) {
+    .container {
+        max-width: 800px;
+        background-color: rgb(222, 21, 21);
+    }
+}
+
+ 

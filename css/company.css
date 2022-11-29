@@ -1,0 +1,44 @@
+.company {
+    margin-top: 100px;
+}
+.company__container{
+    max-width: 968px;
+    margin: auto;
+    background: #02897A;
+    border-radius: 32px;
+}
+
+.company__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+
+
+.company__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    color: #FFFFFF;
+    max-width: 470px;
+   
+
+}
+
+
+.company__btn {
+    margin-top: 80px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #02897A;
+    background: #FFFFFF;
+    border-radius: 8px;
+    padding: 15px 35px 13px 33px;
+
+
+}

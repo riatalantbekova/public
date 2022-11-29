@@ -1,0 +1,67 @@
+
+.header__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__logo {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+
+.header__logo h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 28px;
+    color: #173A56;
+
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.header__item {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 28px;
+    color: #22343D;
+    display: flex;
+    align-items: center;
+
+}
+
+.header__signin {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #173A56;
+    background: none;
+    border: 1px solid gray;
+    padding: 10px 23px 9px 25px;
+    border-radius: 4px;
+}
+
+.header__signup {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: #02897A;
+    border-radius: 4px;
+    padding: 10px 23px 9px 25px;
+    border: none;
+
+}
